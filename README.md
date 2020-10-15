@@ -5,11 +5,9 @@ Home: https://github.com/BenevolentAI/guacamol
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/guacamol-feedstock/blob/master/LICENSE.txt)
 
 Summary: Guacamol: benchmarks for de novo molecular design
-
-
 
 Current build status
 ====================
