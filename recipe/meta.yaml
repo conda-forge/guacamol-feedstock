@@ -1,5 +1,5 @@
 {% set name = "guacamol" %}
-{% set version = "0.5.2" %}
+{% set version = "0.5.4" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/guacamol-{{ version }}.tar.gz
-  sha256: 10e89f4e577a5d36c92830078bde011c0a2c393f692eeb20bd9a10d66f8d68c8
+  sha256: b6152472a8d6dc75f1ee3cce83233a9a1ba0558d43b6a8ce55a8299b46b2828b
 
 build:
   number: 0
