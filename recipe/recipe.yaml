@@ -9,6 +9,8 @@ package:
 source:
   url: https://pypi.org/packages/source/${{ name[0] }}/${{ name }}/guacamol-${{ version }}.tar.gz
   sha256: 2c945d26a0898e0d9c4083c316a129b62f3a9d0bb6f537f3d311e83096fad966
+  patches:
+    - rdkit-dep.patch
 
 build:
   number: 0
